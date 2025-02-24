@@ -8,7 +8,9 @@ int main(){
 
     printf("New Branch Created"); // And merged to master
 
-printf("Git Rebase Test");
+    printf("Git Rebase Test");
+
+    puts("Merge Conflict Test: ABC");
 
     getchar();
 
