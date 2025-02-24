@@ -6,7 +6,7 @@ int main(){
 
     printf("Hello World!");
 
-    printf("New Branch Created");
+    printf("New Branch Created"); // And merged 
 
     getchar();
 
