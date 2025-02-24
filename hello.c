@@ -8,6 +8,8 @@ int main(){
 
     printf("New Branch Created"); // And merged to master
 
+printf("Git Rebase Test");
+
     getchar();
 
     return 0;
