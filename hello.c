@@ -10,7 +10,7 @@ int main(){
 
     printf("Git Rebase Test");
 
-    puts("Merge Conflict Test: ABCDEF");
+    puts("Merge Conflict Test: ABCDEF"); //merge conflict resolved
 
     getchar();
 
